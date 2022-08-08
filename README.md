@@ -1,1 +1,1 @@
-# neual-tangjie.github.io
+# neural-tangjie.github.io
